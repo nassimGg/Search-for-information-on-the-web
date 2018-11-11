@@ -13,5 +13,5 @@ This Project has gone through 3 stages:
         <li> Reverse index creation.</li>
     </ul>
 </li>
-    3- Creation Bi-Gram index.
+<li> Creation Bi-Gram index.</li>
 </ol>
