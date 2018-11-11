@@ -1,0 +1,19 @@
+﻿DEEP LEARNING
+L'apprentissage profond1 (en anglais deep learning, deep structured learning, hierarchical learning) est un ensemble de méthodes d'apprentissage automatique tentant de modéliser avec un haut niveau d’abstraction des données grâce à des architectures articulées de différentes transformations non linéaires[réf. souhaitée]. 
+Ces techniques ont permis des progrès importants et rapides dans les domaines de l'analyse du signal sonore ou visuel et notamment de la reconnaissance faciale, de la reconnaissance vocale, de la vision par ordinateur, du traitement automatisé du langage. Dans les années 2000, ces progrès ont suscité des investissements privés, 
+universitaires et publics importants, notamment de la part du GAFA (Google, Apple, Facebook, Amazon).
+Le « deep learning » fait partie d’une famille de méthodes d'apprentissage automatique fondées sur l’apprentissage de modèles de données. Une observation (une image, p. ex.) peut être représentée de différentes façons par un vecteur de données, notamment en fonction de :
+l’intensité des pixels dont elle est constituée
+ses différentes arêtes
+ses différentes régions, aux formes particulières
+Certaines représentations et une bonne capacité d'analyse automatique des différenciations3 rendent la tâche d’apprentissage plus efficace.
+Une des perspectives des techniques de l'apprentissage profond est le remplacement de certains travaux, encore relativement laborieux, par des modèles algorithmiques d’apprentissage supervisé, 
+non supervisé (c’est-à-dire ne nécessitant pas de connaissances spécifiques quant au problème étudié) ou encore par des techniques d’extraction hiérarchique des caractéristiques.
+Les recherches dans ce domaine s’efforcent de construire de meilleures représentations du réel et de créer des modèles capables d’apprendre ces représentations à partir de données non labellisées à grande échelle. Certaines de ces représentations s’inspirent des dernières avancées en neuroscience. 
+Il s'agit, grosso modo, d'interprétations du traitement de l’information et des modèles de communication du système nerveux, à l'image de la façon dont le système nerveux établit des connexions en fonction des messages reçus, de la réponse neuronale et du poids des connexions entre les neurones du cerveau.
+Les différentes architectures de « deep learning » telles que les « deep neural networks », les « convolutional deep neural networks », et les « deep belief network » ont plusieurs champs d’application :
+la vision par ordinateur
+la reconnaissance automatique de la parole
+le traitement automatique du langage naturel
+la reconnaissance audio et la bio-informatique
+Dans ces deux derniers domaines, notamment, elles ont obtenu des résultats très prometteurs.
