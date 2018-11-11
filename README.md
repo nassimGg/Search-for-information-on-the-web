@@ -1,1 +1,1 @@
-# Search-for-information-on-the-web
+# Search for information on the web
